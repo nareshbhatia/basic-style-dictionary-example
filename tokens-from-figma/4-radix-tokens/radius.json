@@ -1,0 +1,250 @@
+{
+  "Small": {
+    "1": {
+      "value": 1.5,
+      "type": "number",
+      "prefix": "radius"
+    },
+    "2": {
+      "value": 2,
+      "type": "number",
+      "prefix": "radius"
+    },
+    "3": {
+      "value": 3,
+      "type": "number",
+      "prefix": "radius"
+    },
+    "4": {
+      "value": 4,
+      "type": "number",
+      "prefix": "radius"
+    },
+    "5": {
+      "value": 6,
+      "type": "number",
+      "prefix": "radius"
+    },
+    "6": {
+      "value": 8,
+      "type": "number",
+      "prefix": "radius"
+    },
+    "1-max": {
+      "value": 1.5,
+      "type": "number",
+      "prefix": "radius"
+    },
+    "2-max": {
+      "value": 2,
+      "type": "number",
+      "prefix": "radius"
+    },
+    "3-max": {
+      "value": 3,
+      "type": "number",
+      "prefix": "radius"
+    },
+    "4-max": {
+      "value": 4,
+      "type": "number",
+      "prefix": "radius"
+    },
+    "5-max": {
+      "value": 6,
+      "type": "number",
+      "prefix": "radius"
+    },
+    "6-max": {
+      "value": 8,
+      "type": "number",
+      "prefix": "radius"
+    }
+  },
+  "Medium": {
+    "1": {
+      "value": 3,
+      "type": "number",
+      "prefix": "radius"
+    },
+    "2": {
+      "value": 4,
+      "type": "number",
+      "prefix": "radius"
+    },
+    "3": {
+      "value": 6,
+      "type": "number",
+      "prefix": "radius"
+    },
+    "4": {
+      "value": 8,
+      "type": "number",
+      "prefix": "radius"
+    },
+    "5": {
+      "value": 12,
+      "type": "number",
+      "prefix": "radius"
+    },
+    "6": {
+      "value": 16,
+      "type": "number",
+      "prefix": "radius"
+    },
+    "1-max": {
+      "value": 3,
+      "type": "number",
+      "prefix": "radius"
+    },
+    "2-max": {
+      "value": 4,
+      "type": "number",
+      "prefix": "radius"
+    },
+    "3-max": {
+      "value": 6,
+      "type": "number",
+      "prefix": "radius"
+    },
+    "4-max": {
+      "value": 8,
+      "type": "number",
+      "prefix": "radius"
+    },
+    "5-max": {
+      "value": 12,
+      "type": "number",
+      "prefix": "radius"
+    },
+    "6-max": {
+      "value": 16,
+      "type": "number",
+      "prefix": "radius"
+    }
+  },
+  "Large": {
+    "1": {
+      "value": 4.5,
+      "type": "number",
+      "prefix": "radius"
+    },
+    "2": {
+      "value": 6,
+      "type": "number",
+      "prefix": "radius"
+    },
+    "3": {
+      "value": 9,
+      "type": "number",
+      "prefix": "radius"
+    },
+    "4": {
+      "value": 12,
+      "type": "number",
+      "prefix": "radius"
+    },
+    "5": {
+      "value": 18,
+      "type": "number",
+      "prefix": "radius"
+    },
+    "6": {
+      "value": 24,
+      "type": "number",
+      "prefix": "radius"
+    },
+    "1-max": {
+      "value": 4.5,
+      "type": "number",
+      "prefix": "radius"
+    },
+    "2-max": {
+      "value": 6,
+      "type": "number",
+      "prefix": "radius"
+    },
+    "3-max": {
+      "value": 9,
+      "type": "number",
+      "prefix": "radius"
+    },
+    "4-max": {
+      "value": 12,
+      "type": "number",
+      "prefix": "radius"
+    },
+    "5-max": {
+      "value": 18,
+      "type": "number",
+      "prefix": "radius"
+    },
+    "6-max": {
+      "value": 24,
+      "type": "number",
+      "prefix": "radius"
+    }
+  },
+  "Full": {
+    "1": {
+      "value": 6,
+      "type": "number",
+      "prefix": "radius"
+    },
+    "2": {
+      "value": 8,
+      "type": "number",
+      "prefix": "radius"
+    },
+    "3": {
+      "value": 12,
+      "type": "number",
+      "prefix": "radius"
+    },
+    "4": {
+      "value": 16,
+      "type": "number",
+      "prefix": "radius"
+    },
+    "5": {
+      "value": 24,
+      "type": "number",
+      "prefix": "radius"
+    },
+    "6": {
+      "value": 32,
+      "type": "number",
+      "prefix": "radius"
+    },
+    "1-max": {
+      "value": 9999,
+      "type": "number",
+      "prefix": "radius"
+    },
+    "2-max": {
+      "value": 9999,
+      "type": "number",
+      "prefix": "radius"
+    },
+    "3-max": {
+      "value": 9999,
+      "type": "number",
+      "prefix": "radius"
+    },
+    "4-max": {
+      "value": 9999,
+      "type": "number",
+      "prefix": "radius"
+    },
+    "5-max": {
+      "value": 9999,
+      "type": "number",
+      "prefix": "radius"
+    },
+    "6-max": {
+      "value": 9999,
+      "type": "number",
+      "prefix": "radius"
+    }
+  }
+}
